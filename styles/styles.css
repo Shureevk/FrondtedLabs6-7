@@ -1,0 +1,20 @@
+.img-fixed {
+    height: 700px; 
+    width: 100%; 
+    object-fit: cover; 
+}
+
+.alert-text {
+    color: rgb(255, 0, 0);
+    background-color: rgba(255, 0, 0, 0.356);
+    border-color:rgb(112, 15, 15)
+}
+
+.films img {
+    border-radius: 5px;
+    height: 100%;
+}
+
+.about-aaron-films {
+    background-color: aliceblue;
+}
